@@ -11,8 +11,8 @@
 	<groupId>lu.its4u</groupId>
 	<artifactId>codefather</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>codefather</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Codefather</name>
+	<description>Coding Kata: the codefather</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

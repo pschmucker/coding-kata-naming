@@ -16,4 +16,10 @@ public class Invoice {
     private List<SmsInvoiceLine> messages;
     private double total;
     private double taxes;
+
+    @Override
+    public String toString() {
+        // TODO Auto-generated method stub
+        return super.toString();
+    }
 }

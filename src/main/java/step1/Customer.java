@@ -1,3 +1,4 @@
+
 public record Customer(
 
     String firstName,
